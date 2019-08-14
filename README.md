@@ -27,9 +27,14 @@ Más información/documentación de la aplicación en [esta página][Javadoc]
 
 Puede encontrar el ejecutable en [esta página][ejecutable]
 
+video explicativo: 
+[![aquí](http://img.youtube.com/vi/SxQX4R_1M2Y/0.jpg)](http://www.youtube.com/watch?v=SxQX4R_1M2Y)
 
-[Readme_aplicacion]: https://github.com/pablorrp1/SA-T2-3-ESB/src/com/README.md
-[Javadoc]: https://github.com/pablorrp1/SA-T2-3-ESB/JavaDoc
+
+
+
+[Readme_aplicacion]: https://github.com/pablorrp1/SA-T2-3-ESB/tree/master/src/com/
+[Javadoc]: https://github.com/pablorrp1/SA-T2-3-ESB/tree/master/JavaDoc
 [ejecutable]:https://github.com/pablorrp1/SA-T2-3-ESB/
 
 
