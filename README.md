@@ -27,11 +27,10 @@ Más información/documentación de la aplicación en [esta página][Javadoc]
 
 Puede encontrar el ejecutable en [esta página][ejecutable]
 
-video explicativo: \
-[![aquí](http://img.youtube.com/vi/SxQX4R_1M2Y/0.jpg)](http://www.youtube.com/watch?v=SxQX4R_1M2Y)
-
-<iframe width="853" height="480" src="https://www.youtube.com/embed/SxQX4R_1M2Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+Video ilustrativo: 
+<a href="https://www.youtube.com/embed/SxQX4R_1M2Y" target="_blank">
+<img src="https://img.youtube.com/vi/SxQX4R_1M2Y/0.jpg" width="853" height="480" border="10" alt="video" />
+</a>
 
 
 
